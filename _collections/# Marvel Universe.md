@@ -4,10 +4,10 @@
 
 ### Marvel Cinematic Universe [set](https://theposterdb.com/set/99475)
 
-[ ] The Incredible Hulk (2008)
-[ ] Black Widow (2021)
-[ ] Shang-Chi and the Legend of the Ten Rings (2021)
-[ ] Eternals (2021)
+[x] The Incredible Hulk (2008)
+[x] Black Widow (2021)
+[x] Shang-Chi and the Legend of the Ten Rings (2021)
+[x] Eternals (2021)
 [ ] Werewolf by Night (2022)
 
 #### Ant-Man Collection
@@ -33,39 +33,39 @@
 
 #### Doctor Strange Collection
 
-[ ] Doctor Strange (2016)
+[x] Doctor Strange (2016)
 [ ] Doctor Strange in the Multiverse of Madness (2022)
 
 #### Guardians of the Galaxy Collection
 
-[ ] Guardians of the Galaxy (2014)
-[ ] Guardians of the Galaxy Vol. 2 (2017)
+[x] Guardians of the Galaxy (2014)
+[x] Guardians of the Galaxy Vol. 2 (2017)
 [ ] The Guardians of the Galaxy Holiday Special (2022)
 
 #### Iron Man Collection
 
-[ ] Iron Man (2008)
-[ ] Iron Man 2 (2010)
-[ ] Iron Man 3 (2013)
+[x] Iron Man (2008)
+[x] Iron Man 2 (2010)
+[x] Iron Man 3 (2013)
 
 #### Spider-Man (Avengers) Collection
 
-[ ] Spider-Man: Homecoming (2017)
-[ ] Spider-Man: Far From Home (2019)
-[ ] Spider-Man: No Way Home (2021)
+[x] Spider-Man: Homecoming (2017)
+[x] Spider-Man: Far From Home (2019)
+[x] Spider-Man: No Way Home (2021)
 
 #### The Avengers Collection
 
-[ ] The Avengers (2012)
-[ ] Avengers: Age of Ultron (2015)
-[ ] Avengers: Infinity War (2018)
-[ ] Avengers: Endgame (2019)
+[x] The Avengers (2012)
+[x] Avengers: Age of Ultron (2015)
+[x] Avengers: Infinity War (2018)
+[x] Avengers: Endgame (2019)
 
 #### Thor Collection
 
-[ ] Thor (2011)
-[ ] Thor: The Dark World (2013)
-[ ] Thor: Ragnarok (2017)
+[x] Thor (2011)
+[x] Thor: The Dark World (2013)
+[x] Thor: Ragnarok (2017)
 [ ] Thor: Love and Thunder (2022)
 
 ### Marvel One-Shots [set](https://theposterdb.com/set/99888)
